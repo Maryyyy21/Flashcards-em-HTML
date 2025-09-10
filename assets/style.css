@@ -19,3 +19,30 @@ body {
     text-align: center;
     height: 100%;
 }
+
+.catao_conteudo h3 {
+    background-color: tomato;
+    text-align: left;
+    padding: 0.5rem;
+    position: absolute;
+    margin: 0.6rem;
+    border-radius: 0.6rem;
+    font-size: 1vw;
+}
+.catao_conteudo p {
+margin-top:1rem;
+padding: 2rem;
+}
+footer p {
+    background-color: black;
+    color: white;
+    position: fixed;
+    bottom:0 ;
+    width: 100%;
+    height: 2rem;
+}
+footer p {
+    text-align: center;
+    font-size: 0.6rem;
+    margin: 0.5rem;
+}
